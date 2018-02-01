@@ -1,6 +1,6 @@
 # Homework Four
-# Sophia Ryan, Lauren Zielinski #NAMES
-# snryan, laurzie, #UNIQUE NAMES
+# Sophia Ryan, Lauren Zielinski, Carol Castro
+# snryan, laurzie, ccastroa
 
 import random
 
