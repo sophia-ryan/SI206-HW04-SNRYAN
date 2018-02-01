@@ -20,13 +20,12 @@ def checkInput():
     randomAnswer = random.choice(list_of_anwsers)
     while True:
         asking_question = userInput()
-        if asking_question == "quit":
+        if asking_question == "quit" or asking_question == "Quit":
             return False
         elif asking_question.endswith(suffix) != True:
             print(sorry)
-            return True
         else:
             print(randomAnswer)
-            return True
+
 
 checkInput()
